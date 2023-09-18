@@ -16,12 +16,12 @@ For the purposes of this assignment the flask application provided by the profes
 5. Go to file and open up your cloned reposiotry
 6. Create a python file named ***app.py*** within the repository
 7. Within this file copy the flaskapp0 code provided by the professor and paste it within this file
-8. In order to set set up Jingas templating for html create a new templates folder
+8. In order to set up Jingas templating for html create a new templates folder
 9. Within this folder create a base.html file
 10. Copy the code provided in the professor's base.html file into yours which will create a template for the formatting of your application
 11. In order to make the application more original make changes to the title and pages in th website
 
 ## Deploying the Application 
 
-1. You must first log into the Azure through Google Shell using an activation coe which will be provided to you
-2. then you can deploy the app utilizing the code az webapp up --name--runtime PYTHON:3.9 --sku B1
+1. You must first log into Microsoft Azure through Google Shell using an activation code which will be provided to you
+2. then you can deploy the app utilizing the code ***az webapp up --name--runtime PYTHON:3.9 --sku B1***
